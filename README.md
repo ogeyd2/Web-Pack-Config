@@ -1,1 +1,1 @@
-## Setup pro WebPack 🙂
+## Setup do WebPack pro React🙂
